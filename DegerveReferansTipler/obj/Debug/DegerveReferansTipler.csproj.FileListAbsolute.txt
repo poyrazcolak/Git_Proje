@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\bin\Debug\DegerveReferansTipler.exe.config
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\bin\Debug\DegerveReferansTipler.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\bin\Debug\DegerveReferansTipler.pdb
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\obj\Debug\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\obj\Debug\DegerveReferansTipler.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\DegerveReferansTipler\obj\Debug\DegerveReferansTipler.pdb

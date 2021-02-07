@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\bin\Debug\Matematik.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\bin\Debug\Matematik.pdb
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\obj\Debug\Matematik.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\obj\Debug\Matematik.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Matematik\obj\Debug\Matematik.pdb

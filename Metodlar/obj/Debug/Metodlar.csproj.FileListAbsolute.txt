@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\bin\Debug\Metodlar.exe.config
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\obj\Debug\Metodlar.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\obj\Debug\Metodlar.exe
+C:\Users\lenovo\Desktop\KODLAMA.İO\Metodlar\Metodlar\obj\Debug\Metodlar.pdb
